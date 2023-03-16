@@ -8,8 +8,8 @@
 
                  Alumno: Aguayo Virgen Brisa Julianna
 
-# TAREA 1-PARADIGMA OO
-[Tarea 1 Paradigma OO](https://github.com/BrisaAguayo/ProgOO/edit/main/ParadigmaOO/README.md#tarea-1)
+# TAREA 1 PARADIGMA OO
+[Tarea 1 - Paradigma OO](https://github.com/BrisaAguayo/ProgOO/edit/main/ParadigmaOO/README.md#tarea-1)
 
 
 
