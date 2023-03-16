@@ -48,6 +48,14 @@ El encapsulamiento es un concepto de programación orientada a objetos que se re
 
 ### Busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde sí lo tenga.
 
+![CASA](https://user-images.githubusercontent.com/124205663/225555275-de80ba35-1c4d-4782-9602-f0d17fc02b88.jpg)
+![casa paint](https://user-images.githubusercontent.com/124205663/225555154-74d6716d-9216-4576-89a2-15e568de1d4e.png)
+
+Una casa sin puertas ni ventanas. En este caso, cualquiera podría acceder y modificar los objetos dentro de la casa, lo que podría llevar a problemas de seguridad y privacidad.
+
+Por otro lado, una casa con puertas y ventanas. En este caso, los objetos dentro de la casa estarían protegidos y solo se podría acceder a ellos a través de la interfaz pública proporcionada por las puertas y ventanas. Esto podría mejorar la seguridad y la privacidad de la casa.
+
+
 ### Menciona porque es importante y qué problemas puede evitar.
 El encapsulamiento es importante en la programación por varias razones. En primer lugar, permite proteger los datos y el comportamiento de un objeto de modificaciones accidentales o malintencionadas, lo que puede mejorar la seguridad y la fiabilidad del software. En segundo lugar, el encapsulamiento facilita la modificación de los detalles internos de un objeto sin afectar a su interfaz pública, lo que puede hacer que el código sea más fácil de mantener y evolucionar. Por último, el encapsulamiento también puede ayudar a reducir la complejidad del código, ya que oculta los detalles innecesarios y solo expone la información relevante.
 
@@ -59,8 +67,6 @@ Interferencia entre objetos debido a modificaciones inesperadas de datos compart
 Dificultades en la evolución y el mantenimiento del código debido a la complejidad y la dependencia de los detalles internos de los objetos.
 En resumen, el encapsulamiento es un concepto fundamental de la programación orientada a objetos que permite proteger los datos y el comportamiento de los objetos, facilitar la modificación y el mantenimiento del código, y evitar varios problemas comunes en la programación.
 
-# IMAGENES
-
 ## HERENCIA
 ### Describe con tus palabras el concepto de herencia
 
@@ -69,7 +75,11 @@ La herencia en la programación orientada a objetos es un mecanismo que permite 
 La herencia es una técnica poderosa que permite a los programadores reutilizar código y evitar la duplicación de esfuerzos. En lugar de tener que escribir todo el código desde cero cada vez que se necesita una nueva clase, los programadores pueden crear una clase base que encapsule el comportamiento y las características comunes, y luego crear clases derivadas que se basen en ella y agreguen o modifiquen el comportamiento según sea necesario.
 
 ### Ilustra el concepto con imágenes.
-# IMAGENES
+![CU00684B_2](https://user-images.githubusercontent.com/124205663/225554793-c7faf051-0dc0-4c5e-b84e-339cdc8d8a19.jpg)
+
+![HERENCIA](https://user-images.githubusercontent.com/124205663/225553931-66396482-3440-4fe9-8898-c305d5de20f8.png)
+
+
 
 ## HISTORIA UML
 ### Investiga la historia y haz un resumen del Lenguaje de Modelado Unificado, donde se mencione: quienes son sus principales autores (Booch, Rumbaugh, Jacobson), en particular el Diagrama de Clases. 
@@ -108,8 +118,7 @@ Muchas empresas en todo el mundo utilizan UML como parte de su proceso de desarr
 * Tata Consultancy Services
 
 # DIAGRAMA UML-MÁQUINA EXPENDEDORA
-
-[UML](https://drive.google.com/file/d/1hvb8iM0Z-qUfHk7OfzjwVlKBS1jW6OME/view?usp=share_link)
+ ![MÁQUINA EXPENDEDORA drawio](https://user-images.githubusercontent.com/124205663/225553654-dcf5c0f7-1923-4df1-816a-0ff97cf6cc73.png)
 
 
 
