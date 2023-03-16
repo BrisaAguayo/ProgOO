@@ -109,6 +109,8 @@ Muchas empresas en todo el mundo utilizan UML como parte de su proceso de desarr
 
 # DIAGRAMA UML-MÁQUINA EXPENDEDORA
 
+![Texto alternativo de la imagen](https://drive.google.com/file/d/1hvb8iM0Z-qUfHk7OfzjwVlKBS1jW6OME/view?usp=share_link)
+
 
 
 
