@@ -10,6 +10,8 @@
 
 # TAREA 1 PARADIGMA OO
 [Tarea 1 - Paradigma OO](https://github.com/BrisaAguayo/ProgOO/tree/main/ParadigmaOO)
+[Tarea 2 - Paradigma OO](https://github.com/BrisaAguayo/ProgOO/tree/main/Juego)
+
 
 
 
